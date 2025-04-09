@@ -34,3 +34,7 @@ This project uses:
 ## Release Process
 
 Releases are automatically generated when changes are pushed to the main branch.
+
+## Update
+
+This README was updated on 9 April 2025 to trigger the GitHub Actions release workflow.
